@@ -32,6 +32,7 @@
     "postman-request": "^2.88.1-postman.30",
     "rootpath": "^0.1.2",
     "sequelize": "^5.22.4",
+    "serve": "^11.3.2",
     "tarot-deck": "^2.0.1"
   },
   "devDependencies": {
